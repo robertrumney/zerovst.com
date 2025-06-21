@@ -1,0 +1,33 @@
+ZEROVST END-USER LICENSE AGREEMENT (EULA)
+------------------------------------------
+
+Copyright (c) 2025 ZeroVST 
+https://www.zerovst.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this VST plugin and associated documentation files (the “Software”), to use, copy, and distribute copies of the Software, subject to the following conditions:
+
+1. **No Warranty; Use at Your Own Risk**  
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+2. **Non-Commercial Use & Redistribution**  
+   - You may use, share, and distribute the Software freely, provided you do **not** sell or claim authorship of the Software.  
+   - You may not resell, repackage, or distribute this Software for commercial gain or under your own branding.
+
+3. **No Modification**  
+   - You may not modify, alter, reverse-engineer, or create derivative works based on the Software.
+
+4. **Attribution**  
+   - The Software must always include this license file and proper attribution to the original author: https://www.zerovst.com
+
+5. **Prohibition on Rebranding and Fraud**  
+   - You may not represent the Software as your own original work or attempt to pass it off as such in any context.
+
+6. **DRM-Free**  
+   - This Software does not contain Digital Rights Management (DRM). Please respect the author’s intent by not abusing this openness.
+
+By using or distributing the Software, you accept the terms of this License.
+
+For more information, updates, or to contact the author, visit:  
+https://www.zerovst.com
+
+[End of License]
